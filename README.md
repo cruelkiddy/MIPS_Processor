@@ -9,11 +9,10 @@ Using Verilog HDL to simulate a MIPS architecture processor on RTL level...
 
 ### Version
 
-V1.0 Single-cycle processor - [x]
+- [x] V1.0 Single-cycle processor 
 
-V2.0 Pipelined processor - [ ]
+- [ ] V2.0 Pipelined processor 
 
-V3.0 Pipelined processor with cache - [ ]
+- [ ] V3.0 Pipelined processor with cache 
 
-V4.0 Pipelined processor with cache and mmu - [ ]
-
+- [ ] V4.0 Pipelined processor with cache and mmu 
